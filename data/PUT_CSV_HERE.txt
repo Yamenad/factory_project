@@ -1,0 +1,6 @@
+Copy factory_sensor_simulator_2040.csv into this folder:
+
+  Windows  : copy "C:\Users\Lenovo\Downloads\factory_sensor_simulator_2040.csv" data\
+  Linux/Mac: cp ~/Downloads/factory_sensor_simulator_2040.csv data/
+
+Expected final path: data/factory_sensor_simulator_2040.csv
